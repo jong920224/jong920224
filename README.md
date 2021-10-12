@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=sOo%20CodeLog&fontSize=90)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![sOo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sOo&show_icons=true&theme=radical)
 
 <!--
 **jong920224/jong920224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
