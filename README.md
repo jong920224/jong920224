@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=sOo%20CodeLog&fontSize=90)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjong920224&count_bg=%234711D1&title_bg=%23CBBDBD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **jong920224/jong920224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
