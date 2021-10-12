@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&sOo %20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=sOo%20render&fontSize=90)
+
 
 <!--
 **jong920224/jong920224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
