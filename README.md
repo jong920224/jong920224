@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&text=sOo&fontSize=90))
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=sOo%20CodeLog&fontSize=60)
 
 -----------------------------------------------------
 
